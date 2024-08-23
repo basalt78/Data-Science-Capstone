@@ -1,0 +1,9 @@
+﻿Type,Datatype,R2
+Log. Reg.,Training,0.875
+Log. Reg.,Testing,0.833333
+SVM,Training,0.888889
+SVM,Testing,0.833333
+Dec. Tree,Training,0.888889
+Dec. Tree,Testing,0.888889
+KNN,Training,0.861111
+KNN,Testing,0.833333
